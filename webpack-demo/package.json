@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "webpack demo with basic configuration",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^2.22.0",
+    "webpack": "^1.13.1"
+  }
+}
